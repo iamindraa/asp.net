@@ -3,3 +3,4 @@ string paramc = null;
 foreach (var item in param) { paramc += "'" + (item).Trim() + "',"; }
 paramc = paramc.Substring(0, paramc.Length - 1);
 //then Output in single string : 'SD0151478', 'SD0151479'
+indra
